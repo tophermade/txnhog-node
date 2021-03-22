@@ -1,0 +1,31 @@
+{
+  "name": "txnhog",
+  "version": "0.1.0",
+  "description": "Simple node helper module for txnhog.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tophermade/txnhog-node.git"
+  },
+  "keywords": [
+    "mail",
+    "marketing",
+    "mailgun",
+    "amazonses",
+    "transactional",
+    "sms",
+    "twilio"
+  ],
+  "author": "Topher Wilson <t@workandwit.co> (https://workandwit.co)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/tophermade/txnhog-node/issues"
+  },
+  "homepage": "https://github.com/tophermade/txnhog-node#readme",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
