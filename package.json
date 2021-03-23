@@ -1,6 +1,6 @@
 {
   "name": "txnhog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple node helper module for txnhog.co",
   "main": "index.js",
   "scripts": {
